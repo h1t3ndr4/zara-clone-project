@@ -12,13 +12,6 @@ The tech Stack we used for creating this website are :-
 
 <img src="https://cdn-icons-png.flaticon.com/512/1199/1199124.png" width=20/> JavaScript
 
-<img src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" width=20/> NodeJS
-
-<img src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo-thumbnail.png" width=20 /> ExpressJS
-
-<img src="https://w1.pngwing.com/pngs/711/379/png-transparent-green-grass-mongodb-database-documentoriented-database-dashboard-nosql-bson-javascript-thumbnail.png" width=20/> MongoDB
-
-
 ## Landing Page :
 The landing page of ZARA.com displays the navigation bar which contains menu bar , search button , helps , Login Cart.
 In our website, we tried our best to clone same as original website.
