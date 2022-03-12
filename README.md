@@ -6,9 +6,9 @@ This project is a clone of ZARA.com which is well known online shopping store. T
 
 The tech Stack we used for creating this website are :-
 
-1. HTML 
-2. CSS
-3. Javascript
+- HTML 
+- CSS
+- Javascript
 
 
 ## Landing Page :
@@ -40,17 +40,17 @@ Our website is responsive as well.
 
 ## Contributors :
 
-1. Anjum Ara : https://github.com/anjumara07
+- Anjum Ara : https://github.com/anjumara07
 
-2. Divyansh Singh Sikarwar : https://github.com/divyansh050
+- Divyansh Singh Sikarwar : https://github.com/divyansh050
 
-3. Himanshu Sharma : https://github.com/sharmahimansh007
+- Himanshu Sharma : https://github.com/sharmahimansh007
 
-4. Hitendra Mali : https://github.com/h1t3ndr4
+- Hitendra Mali : https://github.com/h1t3ndr4
 
-5. Rohit : https://github.com/Rohitb1107
+- Rohit : https://github.com/Rohitb1107
 
-6. Babli kumari : https://github.com/bablikumari2
+- Babli kumari : https://github.com/bablikumari2
 
 
 ## Our blog link :
